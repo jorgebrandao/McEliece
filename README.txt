@@ -1,5 +1,9 @@
 Version: Python 3.5.4
 
+
+
+Example:
+
 $ python
 >>> from mcelice import *
 >>> s = 'some text'
