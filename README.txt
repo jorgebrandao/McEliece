@@ -6,7 +6,7 @@ Example:
 
 $ python
 >>> from mceliece import *
->>> s = 'some text'
+>>> s = '65537 is a prime, but 65536 is a power of 2!'
 >>> # to encrypt s
 >>> encrypted = encrypt(s)
 >>> 
