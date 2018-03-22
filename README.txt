@@ -5,7 +5,7 @@ Version: Python 3.5.4
 Example:
 
 $ python
->>> from mcelice import *
+>>> from mceliece import *
 >>> s = 'some text'
 >>> # to encrypt s
 >>> encrypted = encrypt(s)
